@@ -9,7 +9,7 @@ import 'screens/Auth/forgot_password_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
-//features
+//featuressss
 import 'screens/Features/main_screen.dart';
 
 void main() async{
